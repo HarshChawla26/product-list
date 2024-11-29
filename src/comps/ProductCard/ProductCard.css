@@ -1,0 +1,21 @@
+.Card{
+    width:85%;
+    height: 30%;
+    background-color: aqua;
+    border-radius: 10px;;
+    margin: 1em;
+}
+
+.product-name,.product-price{
+    margin-top: 0.2em;
+    margin-bottom: auto;
+    margin-left: 7%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.1em;
+    color :rgb(7, 27, 206);
+}
+
+.product-price{
+    color :rgb(73, 3, 105);
+    font-size: 1.1em;
+}
